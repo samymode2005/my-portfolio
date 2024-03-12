@@ -1,0 +1,15 @@
+/*2- shadow for header */
+.po-sec__header {
+    box-shadow: -12px -11px 20px 13px rgba(0, 0, 0, 0.10);
+ }
+
+ /* size of img container in content section */
+.po-img-container__img{
+    max-height: 730px;
+ }
+
+ .cont a i {
+    transform: rotate(40deg) translateY(20%);
+    font-size: var(--6);
+    padding-left: var(--1);
+}

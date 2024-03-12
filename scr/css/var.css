@@ -1,11 +1,11 @@
 /* 1- starting naming variables */
 :root {
     /* colors */
-    --primary:  #5E3BEE;
+    --primary:  #e65100;
     --heading: #282938;
     --muted:  #F5FCFF;
-    --dribble: #E62872;
-    --body: #1C1E53;
+    --dribble: #d50000;
+    --body: #fdd835;
     --white: #fff;
     --dark-muted: rgb(27, 169, 157);
     /* spacing */
