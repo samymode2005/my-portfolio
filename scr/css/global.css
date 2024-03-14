@@ -26,9 +26,9 @@ html {
     max-width: 100%;
   }
   .po-sec{
-  padding-left:var(--15) ;
-  padding-right:var(--12) ;
- padding-top: var(--12);
+  padding-left: var(--15) ;
+  padding-right: var(--12) ;
+  padding-top: var(--12);
   max-width: var(--full);
   }
   .po-box {
